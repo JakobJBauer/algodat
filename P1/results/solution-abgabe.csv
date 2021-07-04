@@ -1,0 +1,269 @@
+#abgabe.csv
+#Jakob Johannes
+#Bauer
+#12002215
+group,number,duration,size
+Indexsuche,1,4200,3
+Indexsuche,2,800,3
+Indexsuche,3,600,3
+Indexsuche,4,600,4
+Indexsuche,5,500,4
+Indexsuche,6,700,4
+Indexsuche,7,700,5
+Indexsuche,8,700,5
+Indexsuche,9,700,5
+Indexsuche,10,700,6
+Indexsuche,11,500,6
+Indexsuche,12,600,6
+Indexsuche,13,600,7
+Indexsuche,14,400,7
+Indexsuche,15,600,7
+Indexsuche,16,600,8
+Indexsuche,17,700,8
+Indexsuche,18,700,8
+Indexsuche,19,700,9
+Indexsuche,20,600,9
+Indexsuche,21,700,9
+Indexsuche,22,600,10
+Indexsuche,23,500,10
+Indexsuche,24,700,10
+Indexsuche,25,1700,250
+Indexsuche,26,900,250
+Indexsuche,27,3200,250
+Indexsuche,28,2600,500
+Indexsuche,29,1300,500
+Indexsuche,30,6500,500
+Indexsuche,31,3600,750
+Indexsuche,32,1700,750
+Indexsuche,33,9100,750
+Indexsuche,34,4800,1000
+Indexsuche,35,2300,1000
+Indexsuche,36,11800,1000
+Indexsuche,37,6200,1250
+Indexsuche,38,3500,1250
+Indexsuche,39,14100,1250
+Indexsuche,40,7400,1500
+Indexsuche,41,3800,1500
+Indexsuche,42,16900,1500
+Indexsuche,43,8500,1750
+Indexsuche,44,4400,1750
+Indexsuche,45,19500,1750
+Indexsuche,46,10600,2000
+Indexsuche,47,4100,2000
+Indexsuche,48,22900,2000
+Indexsuche,49,11600,2250
+Indexsuche,50,4600,2250
+Indexsuche,51,25600,2250
+Indexsuche,52,19800,2500
+Indexsuche,53,5700,2500
+Indexsuche,54,28200,2500
+Indexsuche,55,14000,2750
+Indexsuche,56,5300,2750
+Indexsuche,57,31000,2750
+Indexsuche,58,15100,3000
+Indexsuche,59,5700,3000
+Indexsuche,60,33500,3000
+Gale Shapley,61,72500,3
+Gale Shapley,62,6700,3
+Gale Shapley,63,3400,3
+Gale Shapley,64,21600,4
+Gale Shapley,65,8800,4
+Gale Shapley,66,8200,4
+Gale Shapley,67,11300,5
+Gale Shapley,68,9700,5
+Gale Shapley,69,9100,5
+Gale Shapley,70,15200,6
+Gale Shapley,71,10800,6
+Gale Shapley,72,14300,6
+Gale Shapley,73,34100,7
+Gale Shapley,74,34300,7
+Gale Shapley,75,13400,7
+Gale Shapley,76,34900,8
+Gale Shapley,77,34100,8
+Gale Shapley,78,14300,8
+Gale Shapley,79,17500,9
+Gale Shapley,80,34300,9
+Gale Shapley,81,23600,9
+Gale Shapley,82,13800,10
+Gale Shapley,83,26200,10
+Gale Shapley,84,31600,10
+Gale Shapley,85,2148600,250
+Gale Shapley,86,2023100,250
+Gale Shapley,87,3182900,250
+Gale Shapley,88,2201900,500
+Gale Shapley,89,1491600,500
+Gale Shapley,90,1478900,500
+Gale Shapley,91,2478500,750
+Gale Shapley,92,2492000,750
+Gale Shapley,93,2548500,750
+Gale Shapley,94,4817100,1000
+Gale Shapley,95,4261200,1000
+Gale Shapley,96,3440100,1000
+Gale Shapley,97,4169000,1250
+Gale Shapley,98,4217600,1250
+Gale Shapley,99,7017400,1250
+Gale Shapley,100,8436400,1500
+Gale Shapley,101,6659000,1500
+Gale Shapley,102,8389900,1500
+Gale Shapley,103,10353400,1750
+Gale Shapley,104,10111700,1750
+Gale Shapley,105,11247000,1750
+Gale Shapley,106,12426700,2000
+Gale Shapley,107,13416400,2000
+Gale Shapley,108,16308000,2000
+Gale Shapley,109,19110500,2250
+Gale Shapley,110,16233900,2250
+Gale Shapley,111,17275700,2250
+Gale Shapley,112,31123000,2500
+Gale Shapley,113,17757100,2500
+Gale Shapley,114,19901300,2500
+Gale Shapley,115,28953200,2750
+Gale Shapley,116,26564500,2750
+Gale Shapley,117,25767500,2750
+Gale Shapley,118,33738500,3000
+Gale Shapley,119,28232500,3000
+Gale Shapley,120,41550300,3000
+Stable Matching Positiv,121,9500,3
+Stable Matching Positiv,122,1700,3
+Stable Matching Positiv,123,1100,3
+Stable Matching Positiv,124,2200,4
+Stable Matching Positiv,125,2100,4
+Stable Matching Positiv,126,2000,4
+Stable Matching Positiv,127,2600,5
+Stable Matching Positiv,128,2700,5
+Stable Matching Positiv,129,2100,5
+Stable Matching Positiv,130,5100,6
+Stable Matching Positiv,131,3000,6
+Stable Matching Positiv,132,3700,6
+Stable Matching Positiv,133,5400,7
+Stable Matching Positiv,134,9100,7
+Stable Matching Positiv,135,3400,7
+Stable Matching Positiv,136,4300,8
+Stable Matching Positiv,137,3800,8
+Stable Matching Positiv,138,2800,8
+Stable Matching Positiv,139,4700,9
+Stable Matching Positiv,140,9400,9
+Stable Matching Positiv,141,5500,9
+Stable Matching Positiv,142,3000,10
+Stable Matching Positiv,143,5100,10
+Stable Matching Positiv,144,5200,10
+Stable Matching Positiv,145,267200,250
+Stable Matching Positiv,146,353500,250
+Stable Matching Positiv,147,325400,250
+Stable Matching Positiv,148,807100,500
+Stable Matching Positiv,149,749700,500
+Stable Matching Positiv,150,920700,500
+Stable Matching Positiv,151,1409700,750
+Stable Matching Positiv,152,1696300,750
+Stable Matching Positiv,153,1375300,750
+Stable Matching Positiv,154,2726900,1000
+Stable Matching Positiv,155,3197000,1000
+Stable Matching Positiv,156,2495700,1000
+Stable Matching Positiv,157,3003800,1250
+Stable Matching Positiv,158,2248400,1250
+Stable Matching Positiv,159,2680700,1250
+Stable Matching Positiv,160,4349500,1500
+Stable Matching Positiv,161,4199900,1500
+Stable Matching Positiv,162,4774700,1500
+Stable Matching Positiv,163,5640900,1750
+Stable Matching Positiv,164,5953400,1750
+Stable Matching Positiv,165,7083300,1750
+Stable Matching Positiv,166,8348100,2000
+Stable Matching Positiv,167,7749200,2000
+Stable Matching Positiv,168,10298400,2000
+Stable Matching Positiv,169,10658700,2250
+Stable Matching Positiv,170,9157000,2250
+Stable Matching Positiv,171,10135500,2250
+Stable Matching Positiv,172,16172000,2500
+Stable Matching Positiv,173,8896200,2500
+Stable Matching Positiv,174,8727500,2500
+Stable Matching Positiv,175,13074900,2750
+Stable Matching Positiv,176,12797500,2750
+Stable Matching Positiv,177,12293300,2750
+Stable Matching Positiv,178,17582200,3000
+Stable Matching Positiv,179,18551200,3000
+Stable Matching Positiv,180,23172500,3000
+Stable Matching Negativ,181,60100,3
+Stable Matching Negativ,182,2700,3
+Stable Matching Negativ,183,1100,3
+Stable Matching Negativ,184,1800,4
+Stable Matching Negativ,185,1000,4
+Stable Matching Negativ,186,1000,4
+Stable Matching Negativ,187,1700,5
+Stable Matching Negativ,188,1500,5
+Stable Matching Negativ,189,4400,5
+Stable Matching Negativ,190,1100,6
+Stable Matching Negativ,191,2700,6
+Stable Matching Negativ,192,2600,6
+Stable Matching Negativ,193,1000,7
+Stable Matching Negativ,194,1800,7
+Stable Matching Negativ,195,1300,7
+Stable Matching Negativ,196,2900,8
+Stable Matching Negativ,197,3100,8
+Stable Matching Negativ,198,1400,8
+Stable Matching Negativ,199,1400,9
+Stable Matching Negativ,200,2100,9
+Stable Matching Negativ,201,3100,9
+Stable Matching Negativ,202,2800,10
+Stable Matching Negativ,203,1400,10
+Stable Matching Negativ,204,2200,10
+Stable Matching Negativ,205,144000,250
+Stable Matching Negativ,206,10000,250
+Stable Matching Negativ,207,10400,250
+Stable Matching Negativ,208,255800,500
+Stable Matching Negativ,209,12500,500
+Stable Matching Negativ,210,183700,500
+Stable Matching Negativ,211,761800,750
+Stable Matching Negativ,212,524700,750
+Stable Matching Negativ,213,22700,750
+Stable Matching Negativ,214,433700,1000
+Stable Matching Negativ,215,149100,1000
+Stable Matching Negativ,216,63100,1000
+Stable Matching Negativ,217,84900,1250
+Stable Matching Negativ,218,313600,1250
+Stable Matching Negativ,219,652900,1250
+Stable Matching Negativ,220,1118800,1500
+Stable Matching Negativ,221,249100,1500
+Stable Matching Negativ,222,391400,1500
+Stable Matching Negativ,223,1250500,1750
+Stable Matching Negativ,224,147300,1750
+Stable Matching Negativ,225,419900,1750
+Stable Matching Negativ,226,1100800,2000
+Stable Matching Negativ,227,316800,2000
+Stable Matching Negativ,228,2150000,2000
+Stable Matching Negativ,229,1011100,2250
+Stable Matching Negativ,230,7628900,2250
+Stable Matching Negativ,231,762600,2250
+Stable Matching Negativ,232,244100,2500
+Stable Matching Negativ,233,3075900,2500
+Stable Matching Negativ,234,942600,2500
+Stable Matching Negativ,235,723400,2750
+Stable Matching Negativ,236,3620700,2750
+Stable Matching Negativ,237,4672400,2750
+Stable Matching Negativ,238,3153200,3000
+Stable Matching Negativ,239,1181900,3000
+Stable Matching Negativ,240,4428100,3000
+Brute Force,241,16580700,3
+Brute Force,242,13400,3
+Brute Force,243,9700,3
+Brute Force,244,33700,4
+Brute Force,245,27800,4
+Brute Force,246,86700,4
+Brute Force,247,140100,5
+Brute Force,248,99600,5
+Brute Force,249,77500,5
+Brute Force,250,335500,6
+Brute Force,251,695300,6
+Brute Force,252,182500,6
+Brute Force,253,962700,7
+Brute Force,254,1059300,7
+Brute Force,255,773100,7
+Brute Force,256,4861100,8
+Brute Force,257,3062900,8
+Brute Force,258,4705600,8
+Brute Force,259,22538100,9
+Brute Force,260,10524000,9
+Brute Force,261,18650400,9
+Brute Force,262,397651300,10
+Brute Force,263,105099900,10
+Brute Force,264,1006707700,10
